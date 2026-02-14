@@ -15,7 +15,7 @@ A personalized, interactive web experience created with love for my favorite per
 * **JavaScript** - Interactive logic for image swapping and the moving button.
 
 ## 🚀 View the Live Project
-[Click here to open the surprise!](PASTE_YOUR_GITHUB_PAGES_URL_HERE)
+[Click here to open the surprise!](https://aradhyaganiga.github.io/The-Valentines-Project/)
 
 ---
 
